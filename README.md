@@ -3,16 +3,16 @@
 This project utilizes face recognition technology to automate attendance marking. It captures and matches faces from  images, and records attendance based on recognized faces.
 
 Features
-Automatic Attendance: Marks attendance when a recognized face is detected.
-Face Recognition: Identifies faces from stored images using Dlib and OpenCV.
+Automatic Attendance: Marks attendance when a recognized face is detected,
+Face Recognition: Identifies faces from stored images using Dlib and OpenCV,
 Simple Integration: Easy setup and configuration for new users.
-Requirements
-Python 3.8.0
-OpenCV
-Dlib
-face-recognition
-Pandas
-NumPy
+Requirements:
+Python 3.8.0,
+OpenCV,
+Dlib,
+face-recognition,
+Pandas,
+NumPy,
 Matplotlib 
 
 Install the dependencies using:
