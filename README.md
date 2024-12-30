@@ -2,7 +2,7 @@
 
 Face Recognition Attendance System
 
-This project utilizes face recognition technology to automate attendance marking. It captures and matches faces from live video or images, and records attendance based on recognized faces.
+This project utilizes face recognition technology to automate attendance marking. It captures and matches faces from  images, and records attendance based on recognized faces.
 
 Features
 Automatic Attendance: Marks attendance when a recognized face is detected.
