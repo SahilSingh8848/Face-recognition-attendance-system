@@ -34,13 +34,13 @@ Run the system using:
 python attendenceSystem.py
 
 Files
-attendenceSystem.ipynb: Jupyter notebook with the main code.
-Dlib-main/: Dlib model files for face recognition.
+attendenceSystem.ipynb: Jupyter notebook with the main code,
+Dlib-main/: Dlib model files for face recognition,
 students/: Folder with images for face recognition.
 
 NOTE:
-Python  3.8.0
-Dlib    19.22.99
+Python  3.8.0,
+Dlib    19.22.99,
 Cmake   3.31.1
 
 
